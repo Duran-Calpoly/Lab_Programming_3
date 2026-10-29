@@ -1,8 +1,7 @@
 # Lab Programming Exercise 3: Methods and Collections of Objects
 
 **Follows:** Lecture 29 - Objects II: Methods, Aliasing, and Collections  
-**Format:** One class meeting; implementation and unit testing  
-**Repository:** https://github.com/devfirejedi4/CSC1001-Lab-Programming-Exercise-3
+
 
 ## Motivation
 
